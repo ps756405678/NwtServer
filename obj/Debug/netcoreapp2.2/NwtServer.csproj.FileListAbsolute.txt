@@ -1,0 +1,11 @@
+D:\code_workspace_csharp\NwtServer\bin\Debug\netcoreapp2.2\NwtServer.deps.json
+D:\code_workspace_csharp\NwtServer\bin\Debug\netcoreapp2.2\NwtServer.runtimeconfig.json
+D:\code_workspace_csharp\NwtServer\bin\Debug\netcoreapp2.2\NwtServer.runtimeconfig.dev.json
+D:\code_workspace_csharp\NwtServer\bin\Debug\netcoreapp2.2\NwtServer.dll
+D:\code_workspace_csharp\NwtServer\bin\Debug\netcoreapp2.2\NwtServer.pdb
+D:\code_workspace_csharp\NwtServer\obj\Debug\netcoreapp2.2\NwtServer.csprojAssemblyReference.cache
+D:\code_workspace_csharp\NwtServer\obj\Debug\netcoreapp2.2\NwtServer.csproj.CoreCompileInputs.cache
+D:\code_workspace_csharp\NwtServer\obj\Debug\netcoreapp2.2\NwtServer.AssemblyInfoInputs.cache
+D:\code_workspace_csharp\NwtServer\obj\Debug\netcoreapp2.2\NwtServer.AssemblyInfo.cs
+D:\code_workspace_csharp\NwtServer\obj\Debug\netcoreapp2.2\NwtServer.dll
+D:\code_workspace_csharp\NwtServer\obj\Debug\netcoreapp2.2\NwtServer.pdb
